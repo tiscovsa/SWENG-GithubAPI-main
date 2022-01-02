@@ -11,4 +11,5 @@ Here is the command to run the project: 'display.py'
 The file display.py fetches info from the Github API about a specified user and visualises this data in the form of a bar chart, pie chart and gauge chart using the pygal library.
 
 ### user/Cppavel
-![alt-text]https://github.com/tiscovsa/SWENG-GithubAPI-main/blob/master/Repositories_Made_Each_Month.svg
+![Alt text](./Favourite_languages.svg)
+<img src="./Favourite_languages.svg">
